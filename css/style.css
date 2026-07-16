@@ -1,0 +1,171 @@
+body {
+    background-color: #70e670;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+}
+
+.texto {
+    flex: 1;
+}
+
+.video {
+    width: 500px;
+    border-radius: 20px;
+}
+
+hr{
+
+border: 1px solid black;
+
+
+}
+
+.caixa {
+
+
+ border: 2px solid black;
+
+    padding: 15px;
+
+    margin-bottom: 20px;
+
+    border-radius: 10px;
+
+}
+
+p{
+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 16px;
+
+
+}
+
+p { border-bottom: 2px solid black;
+    padding-bottom: 20px;
+
+
+}
+
+.hobbies {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.hobbies p {
+    margin: 0;
+}
+
+.frame2{
+
+width: 200px;
+border-radius: 20px;
+margin-left: 20px;
+margin-top: 10px;
+align-items: center;
+
+}
+
+.instagram{
+    position: fixed;
+   right: 10px;
+   bottom: 20px;
+   width: 100px;
+    border-bottom: none;
+    border: 2px dotted black;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(146, 244, 27);
+    transition: 0.3s;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+
+}
+
+.instagram:hover{
+
+   .instagram:hover {
+    background-color: rgb(245, 57, 0);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+img{
+    width: 250px;
+    margin-top: 40px;
+    margin-right: 80px;
+    
+    
+}
+
+.titulo-portifólio{ text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+.titulo-portifólio{
+    height: 60px;
+    background-color:  rgb(6, 255, 72);
+    padding: 10px 150px;
+    
+
+
+
+
+}
+
+h3{
+
+    position: relative;
+    left: 90px;
+
+
+
+
+
+}
+
+.fotos-png{
+
+
+display: flex;
+justify-content: center;
+margin-top: 60px;
+flex-direction: column;
+align-items: center;
+margin-top: -1200px;
+
+
+
+
+}
+
